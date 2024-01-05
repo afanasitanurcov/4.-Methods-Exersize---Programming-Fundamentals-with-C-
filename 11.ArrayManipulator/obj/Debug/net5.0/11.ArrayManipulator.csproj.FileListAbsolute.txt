@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\bin\Debug\net5.0\11.ArrayManipulator.exe
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\bin\Debug\net5.0\11.ArrayManipulator.deps.json
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\bin\Debug\net5.0\11.ArrayManipulator.runtimeconfig.json
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\bin\Debug\net5.0\11.ArrayManipulator.runtimeconfig.dev.json
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\bin\Debug\net5.0\11.ArrayManipulator.dll
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\bin\Debug\net5.0\11.ArrayManipulator.pdb
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\obj\Debug\net5.0\11.ArrayManipulator.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\obj\Debug\net5.0\11.ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\obj\Debug\net5.0\11.ArrayManipulator.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\obj\Debug\net5.0\11.ArrayManipulator.AssemblyInfo.cs
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\obj\Debug\net5.0\11.ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\obj\Debug\net5.0\11.ArrayManipulator.dll
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\obj\Debug\net5.0\refint\11.ArrayManipulator.dll
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\obj\Debug\net5.0\11.ArrayManipulator.pdb
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\obj\Debug\net5.0\11.ArrayManipulator.genruntimeconfig.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\11.ArrayManipulator\obj\Debug\net5.0\ref\11.ArrayManipulator.dll

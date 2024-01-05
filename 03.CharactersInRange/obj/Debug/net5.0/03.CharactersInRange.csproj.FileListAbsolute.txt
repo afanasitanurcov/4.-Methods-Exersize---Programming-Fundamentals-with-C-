@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\bin\Debug\net5.0\03.CharactersInRange.exe
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\bin\Debug\net5.0\03.CharactersInRange.deps.json
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\bin\Debug\net5.0\03.CharactersInRange.runtimeconfig.json
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\bin\Debug\net5.0\03.CharactersInRange.runtimeconfig.dev.json
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\bin\Debug\net5.0\03.CharactersInRange.dll
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\bin\Debug\net5.0\03.CharactersInRange.pdb
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\obj\Debug\net5.0\03.CharactersInRange.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\obj\Debug\net5.0\03.CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\obj\Debug\net5.0\03.CharactersInRange.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\obj\Debug\net5.0\03.CharactersInRange.AssemblyInfo.cs
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\obj\Debug\net5.0\03.CharactersInRange.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\obj\Debug\net5.0\03.CharactersInRange.dll
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\obj\Debug\net5.0\refint\03.CharactersInRange.dll
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\obj\Debug\net5.0\03.CharactersInRange.pdb
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\obj\Debug\net5.0\03.CharactersInRange.genruntimeconfig.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\03.CharactersInRange\obj\Debug\net5.0\ref\03.CharactersInRange.dll

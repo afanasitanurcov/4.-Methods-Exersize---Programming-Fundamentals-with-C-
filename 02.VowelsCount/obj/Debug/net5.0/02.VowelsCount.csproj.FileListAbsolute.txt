@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.exe
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.deps.json
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.runtimeconfig.json
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.runtimeconfig.dev.json
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.dll
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.pdb
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.AssemblyInfo.cs
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.dll
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\obj\Debug\net5.0\refint\02.VowelsCount.dll
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.pdb
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.genruntimeconfig.cache
+C:\progr\fundamentalмай\4. ExerciseMethods\02.VowelsCount\obj\Debug\net5.0\ref\02.VowelsCount.dll
